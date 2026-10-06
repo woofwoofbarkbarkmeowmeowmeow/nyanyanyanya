@@ -15,8 +15,8 @@
 			"pvp"
 		],
 		
-		"DownloadLinkInstall": "https://raw.githubusercontent.com/woofwoofbarkbarkmeowmeowmeow/nyanyanyanya/refs/heads/main/pluginmaster.json",
-		"DownloadLinkTesting": "https://raw.githubusercontent.com/woofwoofbarkbarkmeowmeowmeow/nyanyanyanya/refs/heads/main/pluginmaster.json",
-		"DownloadLinkUpdate": "https://raw.githubusercontent.com/woofwoofbarkbarkmeowmeowmeow/nyanyanyanya/refs/heads/main/pluginmaster.json"
+		"DownloadLinkInstall": "https://raw.githubusercontent.com/woofwoofbarkbarkmeowmeowmeow/nyanyanyanya/blob/main/latest.zip",
+		"DownloadLinkTesting": "https://raw.githubusercontent.com/woofwoofbarkbarkmeowmeowmeow/nyanyanyanya/blob/main/latest.zip",
+		"DownloadLinkUpdate": "https://raw.githubusercontent.com/woofwoofbarkbarkmeowmeowmeow/nyanyanyanya/blob/main/latest.zip"
 	}
 ]
