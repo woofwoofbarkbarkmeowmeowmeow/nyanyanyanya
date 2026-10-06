@@ -9,7 +9,7 @@
 		"TestingAssemblyVersion": "0.0.1",
 		"RepoUrl": "https://github.com/woofwoofbarkbarkmeowmeowmeow/nyanyanyanya",
 		"ApplicableVersion": "any",
-		"DalamudApiLevel": 16,
+		"DalamudApiLevel": 15,
 		"Tags": [
 			"frontlines",
 			"pvp"
