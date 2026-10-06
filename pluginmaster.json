@@ -1,0 +1,22 @@
+[
+	{
+		"Author": "obesefeline",
+		"Name": "Friendlyfire",
+		"InternalName": "FriendlyFire",
+		"Punchline": "See your friends in Frontlines.",
+		"Description": "See your friends in Frontlines.",
+		"AssemblyVersion": "0.0.2",
+		"TestingAssemblyVersion": "0.0.1",
+		"RepoUrl": "https://github.com/klanisfatcatadoptioncenter/friendlyfirentplugin/",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 14,
+		"Tags": [
+			"frontlines",
+			"pvp"
+		],
+		
+		"DownloadLinkInstall": "https://raw.githubusercontent.com/klanisfatcatadoptioncenter/friendlyfirentplugin/main/latest.zip",
+		"DownloadLinkTesting": "https://raw.githubusercontent.com/klanisfatcatadoptioncenter/friendlyfirentplugin/main/latest.zip",
+		"DownloadLinkUpdate": "https://raw.githubusercontent.com/klanisfatcatadoptioncenter/friendlyfirentplugin/main/latest.zip"
+	}
+]
