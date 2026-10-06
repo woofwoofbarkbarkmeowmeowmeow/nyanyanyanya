@@ -9,14 +9,14 @@
 		"TestingAssemblyVersion": "0.0.1",
 		"RepoUrl": "https://github.com/klanisfatcatadoptioncenter/friendlyfirentplugin/",
 		"ApplicableVersion": "any",
-		"DalamudApiLevel": 14,
+		"DalamudApiLevel": 15,
 		"Tags": [
 			"frontlines",
 			"pvp"
 		],
 		
-		"DownloadLinkInstall": "https://raw.githubusercontent.com/klanisfatcatadoptioncenter/friendlyfirentplugin/main/latest.zip",
-		"DownloadLinkTesting": "https://raw.githubusercontent.com/klanisfatcatadoptioncenter/friendlyfirentplugin/main/latest.zip",
-		"DownloadLinkUpdate": "https://raw.githubusercontent.com/klanisfatcatadoptioncenter/friendlyfirentplugin/main/latest.zip"
+		"DownloadLinkInstall": "https://raw.githubusercontent.com/woofwoofbarkbarkmeowmeowmeow/nyanyanyanya/refs/heads/main/pluginmaster.json",
+		"DownloadLinkTesting": "https://raw.githubusercontent.com/woofwoofbarkbarkmeowmeowmeow/nyanyanyanya/refs/heads/main/pluginmaster.json",
+		"DownloadLinkUpdate": "https://raw.githubusercontent.com/woofwoofbarkbarkmeowmeowmeow/nyanyanyanya/refs/heads/main/pluginmaster.json"
 	}
 ]
